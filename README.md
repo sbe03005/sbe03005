@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 <br/>
 ![웅기's github stats](https://github-readme-stats.vercel.app/api?username=sbe03005&show_icons=true&theme=tokyonight)
 
-[Notion](https://sbe03005.notion.site/sbe03005/59da2fb55ba1433b91ab6fd6036ee544#633c27de1fae482d8837d5c21828a86f)✨
+[프로필](https://github.com/sbe03005/Portfolio)
+<br/>
+이메일 : sbe03005@naver.com / dndrl1515@gmail.com
+<br/>
+블로그 : https://sbe03005dev.tistory.com / https://sbe03005.github.io
