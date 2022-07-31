@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <br/>
 ![웅기's github stats](https://github-readme-stats.vercel.app/api?username=sbe03005&show_icons=true&theme=tokyonight)
 
-📝 노션&emsp;&emsp;&emsp;&ensp;&nbsp;[https://sbe03005.notion.site/…](https://sbe03005.notion.site/b99dc30ffbfb4c32afd172cb45a52c03)
+📝 노션&emsp;&emsp;&emsp;&ensp;[https://sbe03005.notion.site/…](https://sbe03005.notion.site/b99dc30ffbfb4c32afd172cb45a52c03)
 <br/>
-📧 이메일&emsp;&emsp;&ensp;&nbsp;dndrl1515@gmail.com
+📧 이메일&emsp;&emsp;&ensp;dndrl1515@gmail.com
 <br/>
-✏ 블로그1&emsp;&emsp;&nbsp;https://sbe03005.github.io
+✏ 블로그1&emsp;&emsp;https://sbe03005.github.io
 <br/>
-🖋 블로그2&emsp;&emsp;&nbsp;https://sbe03005dev.tistory.com
+🖋 블로그2&emsp;&emsp;https://sbe03005dev.tistory.com
 
