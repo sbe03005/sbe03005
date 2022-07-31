@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 📧 이메일&emsp;&emsp;&ensp;&nbsp;dndrl1515@gmail.com
 <br/>
-✏ 블로그1&emsp;&emsp;&nbsp;https://sbe03005.github.io/
+✏ 블로그1&emsp;&emsp;&nbsp;https://sbe03005.github.io
 <br/>
-🖋 블로그2&emsp;&emsp;&nbsp;https://sbe03005dev.tistory.com/
+🖋 블로그2&emsp;&emsp;&nbsp;https://sbe03005dev.tistory.com
 
